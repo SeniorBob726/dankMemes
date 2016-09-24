@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=initialValue
+comment0.target=NormalClassTemplate(int)
+comment0.text=\n\ Constructs\ a\ new\ object\ of\ this\ class.\n\ \ \ \ \ \ @param\ \ \ initialValue\ \ \ \ initial\ value\ for\ the\ object's\ state\n
+comment1.params=
+comment1.target=int\ getAttribute()
+comment1.text=\n\ Gets\ the\ value\ of\ one\ of\ this\ object's\ attributes\ (replace\ this\n\ description\ with\ a\ one-sentence\ summary\ of\ your\ own).\n\ You\ may\ provide\ more\ details\ in\ later\ sentences,\ but\ note\ that\n\ they\ will\ only\ appear\ in\ the\ Method\ Details\ section\ of\ the\ class\n\ documentation,\ not\ the\ Method\ Summary\ section.\n\ \ \ \ \ \ @return\ the\ attribute\ value\n
+comment2.params=y
+comment2.target=int\ invokeAMethod(int)
+comment2.text=\n\ Sums\ x\ and\ y\ (replace\ this\ description\ with\ a\ one-sentence\ summary\n\ of\ your\ own).\ \ You\ may\ provide\ more\ details\ in\ later\ sentences,\ but\n\ note\ that\ they\ will\ only\ appear\ in\ the\ Method\ Details\ section\ of\ the\n\ class\ documentation,\ not\ the\ Method\ Summary\ section.\n\ \n\ \ \ \ \ \ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ \ \ \ \ \ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+numComments=3
